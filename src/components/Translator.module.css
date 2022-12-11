@@ -1,0 +1,28 @@
+.form {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Arial;
+    font-size: 18pt;
+}
+
+.input {
+    width: 200px;
+    height: 30px;
+    font-size: 12pt;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: gray;
+    margin: 5px;
+}
+
+.select {
+    width: 40px;
+    height: 30px;
+    font-size: 12pt;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: gray;
+    margin: 5px;
+}
